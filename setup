@@ -1,1 +1,1 @@
-module load gnu-parallel
+module load gnu-parallel hdf5 netcdf 
